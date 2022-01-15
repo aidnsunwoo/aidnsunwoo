@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 -->
 <a href="https://www.instagram.com/line_w00/">
     <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/line_w00/"
+        src="http://img.shields.io/badge/-808080?style=flat&logo=Instagram&link=https://www.instagram.com/line_w00/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@aidnsunwoo">
     <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@aidnsunwoo"
+        src="http://img.shields.io/badge/-808080?style=flat&logo=Vector Logo Zone&link=https://velog.io/@aidnsunwoo"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
