@@ -11,16 +11,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://www.instagram.com/line_w00/">
+<p align="center">
+<a href="https://www.instagram.com/line_w00">
     <img 
-        src="http://img.shields.io/badge/-808080?style=flat&logo=Instagram&link=https://www.instagram.com/line_w00/"
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/line_w00/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <a href="https://velog.io/@aidnsunwoo">
     <img 
-        src="http://img.shields.io/badge/-808080?style=flat&logo=Vector Logo Zone&link=https://velog.io/@aidnsunwoo"
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@aidnsunwoo"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+</p>
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
+</p>
