@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> 🌱Growing Student! </h2>
+
+<span> 💌 Contact : aidnsunwoo@korea.ac.kr </span> <br>
+
 <p align="center">
 <a href="https://www.instagram.com/line_w00">
     <img 
